@@ -1,0 +1,33 @@
+/*estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f9f9f9;
+}
+
+/*títulos */
+h1 {
+  color: #2c3e50;
+}
+
+/*contenedores */
+#departamentos, #presidentes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+/*tarjetas */
+.card {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 15px;
+  width: 250px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+/*imágenes */
+.card img {
+  width: 100%;
+  height: auto;
+}
