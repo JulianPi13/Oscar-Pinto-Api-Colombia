@@ -5,7 +5,8 @@ Este proyecto es un mini portal web que consume datos desde la API pública de C
 
 Se desarrollaron dos secciones:
 1. **Explorador de Departamentos de Colombia**
-2. **Presidentes de Colombia**
+2. **Guia turistica de Colombia**
+3. **Sabores tipicos de Colombia**
 
 Ambas páginas están conectadas mediante hipervínculos y cumplen con los requisitos solicitados.
 
